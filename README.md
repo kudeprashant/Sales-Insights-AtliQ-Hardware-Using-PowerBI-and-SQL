@@ -1,4 +1,5 @@
-# Sales-Insights-AtliQ-Hardware-Using-PowerBI-and-SQL
+# Sales-Insights-AtliQ-Hardware-Using-PowerBI-and-SQL  
+ [Live Dashboard](https://app.powerbi.com/groups/7f9ab790-2194-45f2-9ee3-17007c279bc7/reports/9d1cd88c-30bb-417e-a45c-8110e34344fe/03ece1ecc0080ad0a750?experience=power-bi)
 ## Problem Statement :
 
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project. 
